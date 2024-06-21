@@ -1,4 +1,4 @@
-# Aplicacion de tecnicas de aprendizaje automatico para la prediccion de la turbidez en agua
+# Aplicación de técnicas de aprendizaje automático para la predicción de la turbidez en agua
 Este repositorio contiene el código utilizado para obtener los resultados presentados en el Trabajo Fin de Grado: Aplicación de técnicas de aprendizaje automático para la predicción de turbidez en agua, de Samuel Lozano Iglesias.
 
 # Application of machine learning techniques for turbidity prediction in water
